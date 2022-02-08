@@ -1,3 +1,9 @@
+---
+title: nu rho psi leadership
+layout: template
+filename: nrp_leadership.md
+--- 
+
 <!DOCTYPE html>
 <html lang="en">
 
